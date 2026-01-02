@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Julen Aristondo, a software engineer based in San Sebastián, specializing in high-performance C++ development (Qt, embedded systems, and backend services).<br><br>With 10+ years of experience, I’ve delivered robust, efficient systems and also worked with Java/Spring and DevOps tooling, including CI/CD. I’m currently available for freelance work—whether you need help building a new product, optimizing performance, or maintaining critical systems.<br><br>Feel free to contact me via social media or email to discuss your project.
+I’m Julen Aristondo, a software engineer based in San Sebastián, specializing in high-performance C++ development (Qt, embedded systems, and backend services).<br><br>With 7+ years of experience, I’ve delivered robust, efficient systems and also worked with Java/Spring and DevOps tooling, including CI/CD. I’m currently available for freelance work—whether you need help building a new product, optimizing performance, or maintaining critical systems.<br><br>Feel free to contact me via social media or email to discuss your project.
 
 :email: Email: julen_aristondo@hotmail.com<br>:briefcase: [LinkedIn](https://www.linkedin.com/in/julen-aristondo-5735a125b)
 
