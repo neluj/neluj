@@ -48,7 +48,7 @@ Modern C++ | High-performance software | Embedded systems | Backend development 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=flat-square)
-![CTest](https://img.shields.io/badge/CTest-064F8C?style=flat-square)
+![CTest](https://img.shields.io/badge/CTest-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 Build automation | Unit & integration testing | Software design | Reverse engineering
 
