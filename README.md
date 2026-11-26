@@ -61,7 +61,7 @@ Build automation | Unit & integration testing | Software design | Reverse engine
 
 ### [Xake - Chess GUI & Tournament Manager](https://github.com/neluj/Xake)
 
-Open-source desktop chess application written in **C++20 and Qt 6**, supporting human players and UCI-compatible chess engines, game replays and automated tournament management.
+Open-source desktop chess application written in **modern C++ and Qt 6**, supporting human players and UCI-compatible chess engines, game replays and automated tournament management.
 
 From a DevOps perspective, the project includes a GitHub Actions pipeline that automates compilation, testing, Windows packaging, package validation and artifact uploads.
 
@@ -69,7 +69,7 @@ From a DevOps perspective, the project includes a GitHub Actions pipeline that a
 
 ### [Akerbeltz - UCI Chess Engine](https://github.com/neluj/Akerbeltz)
 
-Open-source chess engine written in **C++23**, focused on algorithmic efficiency, performance optimisation and modern C++ development.
+Open-source chess engine written in **modern C++**, focused on algorithmic efficiency, performance optimisation and modern C++ development.
 
 It implements bitboard-based board representation, alpha-beta search, iterative deepening, transposition tables and move ordering heuristics, with automated testing and Python utilities for move generation validation.
 
